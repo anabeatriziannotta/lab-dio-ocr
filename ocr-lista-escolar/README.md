@@ -81,5 +81,3 @@ Um arquivo JSON com o seguinte formato será gerado:
 3. **Dependência Ausente**: Certifique-se de que a biblioteca `boto3` está instalada.
 ---
 
-Para quaisquer dúvidas ou problemas, entre em contato ou abra uma issue no repositório!
-
