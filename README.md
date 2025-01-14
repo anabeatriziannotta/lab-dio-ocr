@@ -9,8 +9,6 @@ Bem-vindo à documentação do repositório dos projetos Lab - Bootcamp DIO. Aqu
 - [Visão Geral](#visão-geral)
 - [Projeto 1: Amazon Textract - Extração de Texto de Imagens no S3](#projeto-1-amazon-textract---extração-de-texto-de-imagens-no-s3)
 - [Projeto 2: Reconhecimento de Celebridades com Amazon Rekognition](#projeto-2-reconhecimento-de-celebridades-com-amazon-rekognition)
-- [Guia de Implementação](#guia-de-implementação)
-- [Repositório de Códigos](#repositório-de-códigos)
 
 ---
 
@@ -29,7 +27,7 @@ Este projeto utiliza o **Amazon Textract** para extrair texto de imagens armazen
   - Extração de texto e dados de documentos usando o Amazon Textract.
   - Armazenamento do resultado em formato JSON no mesmo bucket.
 
-- **Link do código:** [Textract - Extração de Texto](https://github.com/seu-repositorio/textract-s3)
+- **Link do código:** [Textract - Extração de Texto](https://github.com/anabeatriziannotta/lab-dio-ocr/tree/main/ocr-lista-escolar)
 
 ---
 
@@ -42,6 +40,6 @@ Este projeto utiliza o **Amazon Rekognition** para identificar celebridades em i
   - Comparação com uma base de cadastro de celebridades.
   - Armazenamento de resultados no S3.
 
-- **Link do código:** [Reconhecimento de Celebridades](https://github.com/seu-repositorio/rekognition-celebridades)
+- **Link do código:** [Reconhecimento de Celebridades](https://github.com/anabeatriziannotta/lab-dio-ocr/tree/main/reconhecimento-celebridades)
 
 ---
